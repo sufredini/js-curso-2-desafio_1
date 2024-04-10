@@ -25,3 +25,5 @@ function verificaSoma(){
     let resultado = numero1 + numero2;
     alert(`o resultado da soma é ${resultado}`);
 }
+
+
